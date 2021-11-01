@@ -1,5 +1,5 @@
 # BrightSign-mDNS
-Discover all BrightSign players over network by mDNS
+Discover all BrightSign players over network by mDNS.
 Open Project.bpf with BrightAuthor and publish to player.
 After publish the presentation, open bwoser with URL http://brightsign_IP:3000
 
